@@ -1,0 +1,24 @@
+{
+	"fields": [
+		{
+			"label": "Name",
+			"type": "text"
+		},
+		{
+			"label": "Agrees",
+			"type": "checkbox"
+		},
+		{
+			"label": "Radio",
+			"type": "radio"
+		},
+		{
+			"label": "Birthday",
+			"type": "date"
+		},
+		{
+			"label": "Description",
+			"type": "select"
+		}
+	]
+}

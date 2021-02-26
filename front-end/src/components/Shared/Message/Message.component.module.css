@@ -1,0 +1,10 @@
+.errorMessage{
+    border: 1px solid red;
+    color: darkred;
+    background-color: lightcoral;
+}
+.message{
+    border: 1px solid green;
+    color: darkgreen;
+    background-color: lightgreen;
+}
